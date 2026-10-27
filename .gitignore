@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Telegram session (contains login credentials)
+*.session
+*.session-journal
+logs/
